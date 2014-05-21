@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plantilla3.xsl"?>
+<RecetasCol>
+  <Recetario>Mi Recetario</Recetario>
+  <Recetas>
+    <Receta>
+      <plato tipo="Postre chocolateado">Budin de pan al chocolate</plato>
+      <Ingredientes>
+        <ingrediente>3 taza de miga de pan</ingrediente>
+        <ingrediente>100 gms. de azúcar</ingrediente>
+        <ingrediente>1/4 taza de leche</ingrediente>
+        <ingrediente>1/2 baso de coñac</ingrediente>
+        <ingrediente>1 cucharada de canela</ingrediente>
+        <ingrediente>1 cucharada de ralladura de limón</ingrediente>
+        <ingrediente>3 barritas de chocolate derretido</ingrediente>
+        <ingrediente>3 cucharadas de frutas abrillantadas</ingrediente>
+        <ingrediente>4 huevos</ingrediente>
+        <ingrediente>manteca</ingrediente>
+        <ingrediente>agua</ingrediente>
+      </Ingredientes>
+      <Elaboracion>El budin de pan al chocolate es perfecto como postre y también para tomar el té,
+      se puede servir solo o con alguna crema de limón, manzanas, una bocha de helado. 
+      Si lo llevas a la mesa entero puedes presentarlo con manzanas fileteadas frescas o al horno. 
+      El budin de pan se puede hacer con pan duro o pan fresco, con pan lactal, pan negro o simplemente con pan rallado. 
+      Remojar 3 tazas de miga de pan con 1/4 taza de leche caliente. 
+      Agregar 100 g de azúcar, 1/2 baso de coñac, 1 cucharada de canela, 1 cucharada de ralladura de limón, 
+      3 barritas de chocolate derretido, 3 cucharadas de fruta abrillantada picada,(a elección), y 4 huevos. Unir todo suavemente, 
+      verter en una budinera enmantecada y espolvoreada con azúcar, cubrirla con papel manteca y sujetar el papel con unas vueltas de hilo. 
+      Poner en la olla a presión 1 taza de agua. Acaramelar la budinera, con azúcar sin agua en el fuego, cuidando que toda la superficie interior quede cubierta. 
+      Acomodar la budinera, tapar la olla y cocinar 18 minutos contando a partir del primer escape de vapor. 
+      El budín de pan también puede cocinarse a baño de maría en el horno, cuidando de reponer el agua que se va evaporando.</Elaboracion>
+      <Imagen>http://dekoden.es/ImagenesRecetas/OllaPresion/budin-pan-chocolate.jpg</Imagen>
+      <Ingrediente_Principal>Huevos</Ingrediente_Principal>
+      <Origen_Receta>http://www.donpostre.com/tag/postres-en-olla-a-presion/</Origen_Receta>
+    </Receta>
+    <Receta>
+      <plato tipo="Postre">Flan de coco</plato>
+      <Ingredientes>
+        <ingrediente>4 HUEVOS</ingrediente>
+        <ingrediente>1 bote pequeño LECHE CONDENSADA</ingrediente>
+        <ingrediente>misma medida LECHE ENTERA</ingrediente>
+        <ingrediente>100gr ALMENDRAS MOLIDA</ingrediente>
+        <ingrediente>100gr COCO MOLIDO</ingrediente>
+        <ingrediente>CARAMELO LIQUIDO</ingrediente>
+      </Ingredientes>
+      <Elaboracion>Batir los huevos y mezclarlos con la leche condensada y la leche entera,añadir las almendras molidas y el coco rallado.
+      Mezclar y poner en un molde caramelizado.Poner un vaso de agua en una olla poner dentro el molde tapado, 
+      tapar la olla y cuando adquiera presión,contar 8 minutos.Desmoldar en frio.</Elaboracion>
+      <Imagen>http://2.bp.blogspot.com/_NhDYKu6zGH4/TPoWWFtHPxI/AAAAAAAAACU/tTqRoumKUBM/s1600/flandecoco.jpg</Imagen>
+      <Ingrediente_Principal>Huevos</Ingrediente_Principal>
+      <Origen_Receta>http://www.gallinablanca.es/receta/flan-de-coco-y-almendras-expres.aspx</Origen_Receta>
+    </Receta>
+    <Receta>
+      <plato tipo="Postre">Tarta uruguaya</plato>
+      <Ingredientes>
+        <ingrediente>3 huevo</ingrediente>
+        <ingrediente>1 yogurt de limon</ingrediente>
+        <ingrediente>1 medida de yogurt</ingrediente>
+        <ingrediente>aceite de girasol</ingrediente>
+        <ingrediente>2 medidas de yogurt</ingrediente>
+        <ingrediente>azucar</ingrediente>
+        <ingrediente>4 medidas de yogurt</ingrediente>
+        <ingrediente>harina</ingrediente>
+        <ingrediente> 1 sobre levadura en polvo</ingrediente>
+        <ingrediente>mantequilla</ingrediente>
+        <ingrediente>2 latas medianas leche condensada</ingrediente>
+        <ingrediente>1 paquete maltesers blancos</ingrediente>
+        <ingrediente>1 paquete maltesers de chocolate con leche</ingrediente>
+        <ingrediente>piñones</ingrediente>
+        <ingrediente>1 bote mermelada de frutos rojos</ingrediente>
+        <ingrediente>4 cucharadas soperas cacao en polvo</ingrediente>
+      </Ingredientes>
+      <Elaboracion>Poner los huevos, el yogur, el azucar, el aceite, la harina y la levadura en un bol y batir con la batidora para que no queden grumos 
+      y ponerlo en un recipiente enmantequillado. Llevarlo al microondas unos 10 minutos a máxima potencia, pincharlo con un palillo y si sale mojado 
+      ponerlo algún minuto más (yo con 10 min. a 800 ha sido suficiente). Desmoldar cuando aún este tibio. Aun tibio cortar el bizcocho en 3 discos. 
+      Como truco podeis usar un hilo en vez de un cuchillo.  Meter las latas de leche condensada sin abrir en la olla express y llenar de agua hasta 
+      la mitad de las latas. Cerrar la olla y cocer al baño maria durante 40 minutos. Una vez esten frías las latas las abrimos y se habrán convertido en 
+      dulce de leche.  Ponemos en una fuente la base del bizcocho y la cubrimos de mermelada de frutos rojos, encima ponemos otro disco de bizcocho, 
+      otra capa de mermelada y el otro disco de bizcocho.  Mezclamos el dulce de leche con 4 cucharadas soperas de Cola Cao, o la cantidad deseada 
+      segun gusto, y cubrimos todo el bizcocho con la pasta de dulce de leche y colacao.  Para decorar cubrimos los bordes de la tarta con piñones y 
+      decoramos segun se ve en la foto con los maltesers.... o cualquier otra decoración que se os ocurra.</Elaboracion>
+      <Imagen>http://dekoden.es/ImagenesRecetas/OllaPresion/tartauruguaya.jpg</Imagen>
+      <Ingrediente_Principal>Sin Clasificar</Ingrediente_Principal>
+      <Origen_Receta>http://www.gallinablanca.es/receta/tarta-uruguaya.aspx</Origen_Receta>
+    </Receta>
+  </Recetas>
+</RecetasCol>
